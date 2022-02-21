@@ -1,5 +1,5 @@
 {
-  "name": "@jassmass-packs/jasber-package",
+  "name": "jasber-package",
   "version": "1.0.0",
   "description": "for sample",
   "main": "index.js",
